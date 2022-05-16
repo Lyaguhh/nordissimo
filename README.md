@@ -2,4 +2,4 @@
 
 <p align="center">Resource pack for minecraft based on the theme nord.</p>
 
-<p align="center">Copyright &copy; 2021-present <a href="https://www.arcticicestudio.com" target="_blank">Arctic Ice Studio</a> and <a href="https://github.com/7Em41k" target="_blank">7Em41k</a></p>
+<p align="center">Copyright &copy; 2021-present <a href="https://www.arcticicestudio.com" target="_blank">Arctic Ice Studio</a> and <a href="https://github.com/7Em41k" target="_blank">Lyaguh.</a></p>
